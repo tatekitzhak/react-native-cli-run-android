@@ -1,2 +1,2 @@
 # react-native-cli-run-android-simulator
-## react-native-cli
+## react-native-cli-android-simulator
